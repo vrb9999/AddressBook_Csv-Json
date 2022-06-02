@@ -1,0 +1,17 @@
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\bin\Debug\netcoreapp3.1\ReadWrite_JSON.exe
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\bin\Debug\netcoreapp3.1\ReadWrite_JSON.deps.json
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\bin\Debug\netcoreapp3.1\ReadWrite_JSON.runtimeconfig.json
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\bin\Debug\netcoreapp3.1\ReadWrite_JSON.runtimeconfig.dev.json
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\bin\Debug\netcoreapp3.1\ReadWrite_JSON.dll
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\bin\Debug\netcoreapp3.1\ReadWrite_JSON.pdb
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\obj\Debug\netcoreapp3.1\ReadWrite_JSON.csproj.AssemblyReference.cache
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\obj\Debug\netcoreapp3.1\ReadWrite_JSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\obj\Debug\netcoreapp3.1\ReadWrite_JSON.AssemblyInfoInputs.cache
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\obj\Debug\netcoreapp3.1\ReadWrite_JSON.AssemblyInfo.cs
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\obj\Debug\netcoreapp3.1\ReadWrite_JSON.csproj.CoreCompileInputs.cache
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\obj\Debug\netcoreapp3.1\ReadWrite_JSON.csproj.CopyComplete
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\obj\Debug\netcoreapp3.1\ReadWrite_JSON.dll
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\obj\Debug\netcoreapp3.1\ReadWrite_JSON.pdb
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\obj\Debug\netcoreapp3.1\ReadWrite_JSON.genruntimeconfig.cache
+D:\RFP\AddressBook_Csv-Json\ReadWrite_JSON\ReadWrite_JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
