@@ -1,0 +1,16 @@
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\bin\Debug\netcoreapp3.1\ReadWrite_CSV.exe
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\bin\Debug\netcoreapp3.1\ReadWrite_CSV.deps.json
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\bin\Debug\netcoreapp3.1\ReadWrite_CSV.runtimeconfig.json
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\bin\Debug\netcoreapp3.1\ReadWrite_CSV.runtimeconfig.dev.json
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\bin\Debug\netcoreapp3.1\ReadWrite_CSV.dll
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\bin\Debug\netcoreapp3.1\ReadWrite_CSV.pdb
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\obj\Debug\netcoreapp3.1\ReadWrite_CSV.csproj.AssemblyReference.cache
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\obj\Debug\netcoreapp3.1\ReadWrite_CSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\obj\Debug\netcoreapp3.1\ReadWrite_CSV.AssemblyInfoInputs.cache
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\obj\Debug\netcoreapp3.1\ReadWrite_CSV.AssemblyInfo.cs
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\obj\Debug\netcoreapp3.1\ReadWrite_CSV.csproj.CoreCompileInputs.cache
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\obj\Debug\netcoreapp3.1\ReadWrite_CSV.csproj.CopyComplete
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\obj\Debug\netcoreapp3.1\ReadWrite_CSV.dll
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\obj\Debug\netcoreapp3.1\ReadWrite_CSV.pdb
+D:\RFP\AddressBook_Csv-Json\ReadWrite_CSV\ReadWrite_CSV\obj\Debug\netcoreapp3.1\ReadWrite_CSV.genruntimeconfig.cache
